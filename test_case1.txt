@@ -1,0 +1,5 @@
+REF 3
+RLE 2 "well hello\n"
+REF 2
+LIT "\\n should result in a new line "
+REF 4 1 4
